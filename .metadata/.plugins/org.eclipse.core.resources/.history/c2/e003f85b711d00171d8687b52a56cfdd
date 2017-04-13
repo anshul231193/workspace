@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_olrUkB1qEeelVqW9PcpJvA" id="_olmcEB1qEeelVqW9PcpJvA" label="useMetadata" creationDate="2017-04-10T02:52:28.568+0530" modificationDate="2017-04-10T03:07:01.447+0530" version="0.1" statusCode="" item="_olrUkh1qEeelVqW9PcpJvA" displayName="useMetadata">
+    <author href="../talend.project#_0j9rABw3Eee78r5v4gvRWw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_olrUkR1qEeelVqW9PcpJvA" path="" locked="true" lockDate="2017-04-10T02:52:28.915+0530">
+    <locker href="../talend.project#_0j9rABw3Eee78r5v4gvRWw"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_olrUkh1qEeelVqW9PcpJvA" property="_olrUkB1qEeelVqW9PcpJvA" state="_olrUkR1qEeelVqW9PcpJvA">
+    <process href="useMetadata_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_knLH0B9QEeeUnpceoj6BNQ" id="_knKgwB9QEeeUnpceoj6BNQ" label="basketItemProductMerchantJoinJob" creationDate="2017-04-12T12:50:57.292+0530" modificationDate="2017-04-12T12:50:55.080+0530" version="0.1" statusCode="" item="_knLH0h9QEeeUnpceoj6BNQ" displayName="basketItemProductMerchantJoinJob">
+    <author href="../talend.project#_0j9rABw3Eee78r5v4gvRWw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_knLH0R9QEeeUnpceoj6BNQ" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_knLH0h9QEeeUnpceoj6BNQ" property="_knLH0B9QEeeUnpceoj6BNQ" state="_knLH0R9QEeeUnpceoj6BNQ">
+    <process href="basketItemProductMerchantJoinJob_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

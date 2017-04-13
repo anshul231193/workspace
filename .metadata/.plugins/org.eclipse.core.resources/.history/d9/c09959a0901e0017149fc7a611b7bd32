@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_8-GpgByqEeexRbVaissgxA" id="_895OIByqEeexRbVaissgxA" label="sortCSVFile" purpose="Sort CSV File" description="title and movieid." creationDate="2017-04-09T04:00:21.975+0530" modificationDate="2017-04-10T13:45:36.641+0530" version="0.1" statusCode="" item="_8-GpghyqEeexRbVaissgxA" displayName="sortCSVFile">
+    <author href="../talend.project#_0j9rABw3Eee78r5v4gvRWw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_8-GpgRyqEeexRbVaissgxA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_8-GpghyqEeexRbVaissgxA" property="_8-GpgByqEeexRbVaissgxA" state="_8-GpgRyqEeexRbVaissgxA">
+    <process href="sortCSVFile_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
