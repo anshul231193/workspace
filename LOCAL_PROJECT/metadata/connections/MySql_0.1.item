@@ -17,7 +17,6 @@
   <orgomg.cwm.resource.relational:Catalog xmi:id="_EEN34B1sEeelVqW9PcpJvA" name="couponplatform" dataManager="_EAzXgB1sEeelVqW9PcpJvA">
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5MpFQB93EeeUnpceoj6BNQ" name="baskTmp" id="_5MoeMB93EeeUnpceoj6BNQ" label="baskTmp" tableType="TABLE">
       <taggedValue xmi:id="_5MpFQR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5MpFQh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5MpFQx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5MpFRB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5MpFRR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -46,7 +45,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5NFxMB93EeeUnpceoj6BNQ" name="currency" id="_5NFKIB93EeeUnpceoj6BNQ" label="currency" tableType="TABLE">
       <taggedValue xmi:id="_5NFxMR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5NFxMh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5NFxMx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5NFxNB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5NFxNR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -75,7 +73,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5N2mMB93EeeUnpceoj6BNQ" name="couponcodetranslation" id="_5N1_IB93EeeUnpceoj6BNQ" label="couponcodetranslation" tableType="TABLE">
       <taggedValue xmi:id="_5N2mMR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5N2mMh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5N2mMx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5N2mNB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5N2mNR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -109,7 +106,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OCzcB93EeeUnpceoj6BNQ" name="couponcode" id="_5OA-QB93EeeUnpceoj6BNQ" label="couponcode" tableType="TABLE">
       <taggedValue xmi:id="_5OCzcR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OCzch93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OCzcx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OCzdB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OCzdR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -248,7 +244,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OHr8R93EeeUnpceoj6BNQ" name="couponbook" id="_5OHr8B93EeeUnpceoj6BNQ" label="couponbook" tableType="TABLE">
       <taggedValue xmi:id="_5OHr8h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OHr8x93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OHr9B93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OHr9R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OHr9h93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -342,7 +337,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OKvQB93EeeUnpceoj6BNQ" name="checkin" id="_5OKIMB93EeeUnpceoj6BNQ" label="checkin" tableType="TABLE">
       <taggedValue xmi:id="_5OKvQR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OKvQh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OKvQx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OKvRB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OKvRR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -424,7 +418,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OQO0B93EeeUnpceoj6BNQ" name="basketTmp" id="_5OPnwB93EeeUnpceoj6BNQ" label="basketTmp" tableType="TABLE">
       <taggedValue xmi:id="_5OQO0R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OQO0h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OQO0x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OQO1B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OQO1R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -453,7 +446,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OSrEB93EeeUnpceoj6BNQ" name="basket" id="_5OSEAB93EeeUnpceoj6BNQ" label="basket" tableType="TABLE">
       <taggedValue xmi:id="_5OSrER93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OSrEh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OSrEx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OSrFB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OSrFR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -482,7 +474,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OVHUR93EeeUnpceoj6BNQ" name="discountproductgroups" id="_5OVHUB93EeeUnpceoj6BNQ" label="discountproductgroups" tableType="TABLE">
       <taggedValue xmi:id="_5OVHUh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OVHUx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OVHVB93EeeUnpceoj6BNQ" name="rule_id" label="rule_id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OVHVR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OVHVh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -496,7 +487,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OXjkR93EeeUnpceoj6BNQ" name="couponstate" id="_5OXjkB93EeeUnpceoj6BNQ" label="couponstate" tableType="TABLE">
       <taggedValue xmi:id="_5OXjkh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OXjkx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OXjlB93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OXjlR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OXjlh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -520,7 +510,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Oam4R93EeeUnpceoj6BNQ" name="couponissuer" id="_5Oam4B93EeeUnpceoj6BNQ" label="couponissuer" tableType="TABLE">
       <taggedValue xmi:id="_5Oam4h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Oam4x93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Oam5B93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Oam5R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Oam5h93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -554,7 +543,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OdDIR93EeeUnpceoj6BNQ" name="discountproducts" id="_5OdDIB93EeeUnpceoj6BNQ" label="discountproducts" tableType="TABLE">
       <taggedValue xmi:id="_5OdDIh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OdDIx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OdDJB93EeeUnpceoj6BNQ" name="rule_id" label="rule_id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OdDJR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OdDJh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -568,7 +556,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5OgGcB93EeeUnpceoj6BNQ" name="generalstate" id="_5OffYB93EeeUnpceoj6BNQ" label="generalstate" tableType="TABLE">
       <taggedValue xmi:id="_5OgGcR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5OgGch93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5OgGcx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5OgGdB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5OgGdR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -592,7 +579,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5O69MB93EeeUnpceoj6BNQ" name="identifier" id="_5O6WIB93EeeUnpceoj6BNQ" label="identifier" tableType="TABLE">
       <taggedValue xmi:id="_5O69MR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5O69Mh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5O69Mx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5O69NB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5O69NR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -631,7 +617,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5O9ZcB93EeeUnpceoj6BNQ" name="identitytype" id="_5O8yYB93EeeUnpceoj6BNQ" label="identitytype" tableType="TABLE">
       <taggedValue xmi:id="_5O9ZcR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5O9Zch93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5O9Zcx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5O9ZdB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5O9ZdR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -660,7 +645,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PAcwB93EeeUnpceoj6BNQ" name="js" id="_5O_1sB93EeeUnpceoj6BNQ" label="js" tableType="TABLE">
       <taggedValue xmi:id="_5PAcwR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PAcwh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PAcwx93EeeUnpceoj6BNQ" name="code" label="code" sourceType="VARCHAR" talendType="id_String">
         <taggedValue xmi:id="_5PAcxB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PAcxR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -694,7 +678,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PFVQB93EeeUnpceoj6BNQ" name="location" id="_5PEuMB93EeeUnpceoj6BNQ" label="location" tableType="TABLE">
       <taggedValue xmi:id="_5PFVQR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PFVQh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PFVQx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PFVRB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PFVRR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -768,7 +751,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PHxgR93EeeUnpceoj6BNQ" name="loggerMerchantProductGroup" id="_5PHxgB93EeeUnpceoj6BNQ" label="loggerMerchantProductGroup" tableType="TABLE">
       <taggedValue xmi:id="_5PHxgh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PHxgx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PHxhB93EeeUnpceoj6BNQ" name="moment" label="moment" length="19" sourceType="DATETIME" talendType="id_Date" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
         <taggedValue xmi:id="_5PHxhR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PHxhh93EeeUnpceoj6BNQ" body="'0000-00-00 00:00:00'" language="COLUMN_DEF"/>
@@ -792,7 +774,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PK00B93EeeUnpceoj6BNQ" name="marketingpreference" id="_5PKNwB93EeeUnpceoj6BNQ" label="marketingpreference" tableType="TABLE">
       <taggedValue xmi:id="_5PK00R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PK00h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PK00x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PK01B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PK01R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -821,7 +802,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PPtUB93EeeUnpceoj6BNQ" name="merchant" id="_5PPGQB93EeeUnpceoj6BNQ" label="merchant" tableType="TABLE">
       <taggedValue xmi:id="_5PPtUR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PPtUh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PPtUx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PPtVB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PPtVR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -910,7 +890,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PSJkR93EeeUnpceoj6BNQ" name="merchantProductGroup" id="_5PSJkB93EeeUnpceoj6BNQ" label="merchantProductGroup" tableType="TABLE">
       <taggedValue xmi:id="_5PSJkh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PSwoB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PSwoR93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PSwoh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PSwox93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -929,7 +908,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PVM4B93EeeUnpceoj6BNQ" name="merchantcategory" id="_5PUl0B93EeeUnpceoj6BNQ" label="merchantcategory" tableType="TABLE">
       <taggedValue xmi:id="_5PVM4R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PVM4h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PVM4x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PVM5B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PVM5R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -958,7 +936,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PXpIR93EeeUnpceoj6BNQ" name="merchantgroup" id="_5PXpIB93EeeUnpceoj6BNQ" label="merchantgroup" tableType="TABLE">
       <taggedValue xmi:id="_5PXpIh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PXpIx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PXpJB93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PXpJR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PXpJh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -992,7 +969,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PascR93EeeUnpceoj6BNQ" name="movies" id="_5PascB93EeeUnpceoj6BNQ" label="movies" tableType="TABLE">
       <taggedValue xmi:id="_5Pasch93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Pascx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PasdB93EeeUnpceoj6BNQ" name="movieID" label="movieID" length="10" sourceType="INT" talendType="id_Integer">
         <taggedValue xmi:id="_5PasdR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Pasdh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1021,7 +997,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PeW0B93EeeUnpceoj6BNQ" name="product" id="_5PdvwB93EeeUnpceoj6BNQ" label="product" tableType="TABLE">
       <taggedValue xmi:id="_5PeW0R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PeW0h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PeW0x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PeW1B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PeW1R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1062,10 +1037,15 @@
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PeW8R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
         <sqlDataType xmi:id="_5PeW8h93EeeUnpceoj6BNQ" name="VARCHAR" numericPrecisionRadix="10" javaDataType="12" nullable="columnNullable"/>
       </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_erI9ICQEEeexAJRfvqhEBg" name="created_date_time" label="created_date_time" length="-1" sourceType="DATE" talendType="id_Date" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;">
+        <initialValue xmi:id="_p5FcQCQEEeexAJRfvqhEBg" body="0000-00-00 00:00:00"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dBpSECT8Eeea7rSGw80C_Q" name="last_updated_date_time" label="last_updated_date_time" length="-1" sourceType="DATE" talendType="id_Date" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;">
+        <initialValue xmi:id="_gNLZ8CT8Eeea7rSGw80C_Q" body="0000-00-00 00:00:00"/>
+      </feature>
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PgzEB93EeeUnpceoj6BNQ" name="productgroup" id="_5PgMAB93EeeUnpceoj6BNQ" label="productgroup" tableType="TABLE">
       <taggedValue xmi:id="_5PgzER93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PgzEh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PgzEx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PgzFB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PgzFR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1104,7 +1084,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Pj2YB93EeeUnpceoj6BNQ" name="redeemrule" id="_5PjPUB93EeeUnpceoj6BNQ" label="redeemrule" tableType="TABLE">
       <taggedValue xmi:id="_5Pj2YR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Pj2Yh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Pj2Yx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Pj2ZB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Pj2ZR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1158,7 +1137,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5PmSoB93EeeUnpceoj6BNQ" name="redeemrulesproductgroups" id="_5PlrkB93EeeUnpceoj6BNQ" label="redeemrulesproductgroups" tableType="TABLE">
       <taggedValue xmi:id="_5PmSoR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5PmSoh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5PmSox93EeeUnpceoj6BNQ" name="rule_id" label="rule_id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5PmSpB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5PmSpR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1172,7 +1150,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Pou4B93EeeUnpceoj6BNQ" name="redeemrulesproducts" id="_5PoH0B93EeeUnpceoj6BNQ" label="redeemrulesproducts" tableType="TABLE">
       <taggedValue xmi:id="_5Pou4R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Pou4h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Pou4x93EeeUnpceoj6BNQ" name="rule_id" label="rule_id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Pou5B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Pou5R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1186,7 +1163,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QXusB93EeeUnpceoj6BNQ" name="requestdetail" id="_5QXHoB93EeeUnpceoj6BNQ" label="requestdetail" tableType="TABLE">
       <taggedValue xmi:id="_5QXusR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QXush93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QXusx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5QXutB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QXutR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1220,7 +1196,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QkjAB93EeeUnpceoj6BNQ" name="rewardcouponcodescouponcodes" id="_5Qj78B93EeeUnpceoj6BNQ" label="rewardcouponcodescouponcodes" tableType="TABLE">
       <taggedValue xmi:id="_5QkjAR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QkjAh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QkjAx93EeeUnpceoj6BNQ" name="reward_coupon_code_id" label="reward_coupon_code_id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5QkjBB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QkjBR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1234,7 +1209,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QmYMR93EeeUnpceoj6BNQ" name="statcatcher" id="_5QmYMB93EeeUnpceoj6BNQ" label="statcatcher" tableType="TABLE">
       <taggedValue xmi:id="_5QmYMh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QmYMx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QmYNB93EeeUnpceoj6BNQ" name="moment" label="moment" length="19" sourceType="DATETIME" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
         <taggedValue xmi:id="_5QmYNR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QmYNh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1263,7 +1237,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QqCkR93EeeUnpceoj6BNQ" name="terminal" id="_5QqCkB93EeeUnpceoj6BNQ" label="terminal" tableType="TABLE">
       <taggedValue xmi:id="_5QqCkh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QqCkx93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QqClB93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5QqClR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QqClh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1312,7 +1285,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Qse0R93EeeUnpceoj6BNQ" name="tmp" id="_5Qse0B93EeeUnpceoj6BNQ" label="tmp" tableType="TABLE">
       <taggedValue xmi:id="_5Qse0h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Qse0x93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Qse1B93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Qse1R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Qse1h93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1341,7 +1313,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QviIB93EeeUnpceoj6BNQ" name="tmpBasket" id="_5Qu7EB93EeeUnpceoj6BNQ" label="tmpBasket" tableType="TABLE">
       <taggedValue xmi:id="_5QviIR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QviIh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QviIx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5QviJB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QviJR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1370,7 +1341,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5QxXUB93EeeUnpceoj6BNQ" name="tmpConsumer" id="_5QwwQB93EeeUnpceoj6BNQ" label="tmpConsumer" tableType="TABLE">
       <taggedValue xmi:id="_5QxXUR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5QxXUh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5QxXUx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5QxXVB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5QxXVR93EeeUnpceoj6BNQ" body="0" language="COLUMN_DEF"/>
@@ -1384,7 +1354,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Q2P0B93EeeUnpceoj6BNQ" name="transaction" id="_5Q1owB93EeeUnpceoj6BNQ" label="transaction" tableType="TABLE">
       <taggedValue xmi:id="_5Q2P0R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Q2P0h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Q2P0x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Q2P1B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Q2P1R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1468,7 +1437,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5RSUsB93EeeUnpceoj6BNQ" name="user" id="_5RRtoB93EeeUnpceoj6BNQ" label="user" tableType="TABLE">
       <taggedValue xmi:id="_5RSUsR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5RSUsh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5RSUsx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5RSUtB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5RSUtR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1612,7 +1580,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5RoS8B93EeeUnpceoj6BNQ" name="consumer" id="_5RnE0B93EeeUnpceoj6BNQ" label="consumer" tableType="TABLE">
       <taggedValue xmi:id="_5RoS8R93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5RoS8h93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5RoS8x93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5RoS9B93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5RoS9R93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1761,7 +1728,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5Rr9UR93EeeUnpceoj6BNQ" name="consumerpoints" id="_5Rr9UB93EeeUnpceoj6BNQ" label="consumerpoints" tableType="TABLE">
       <taggedValue xmi:id="_5Rr9Uh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5Rr9Ux93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5Rr9VB93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5Rr9VR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5Rr9Vh93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1800,7 +1766,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5R5YsB93EeeUnpceoj6BNQ" name="consumerTmp" id="_5R4KkB93EeeUnpceoj6BNQ" label="consumerTmp" tableType="TABLE">
       <taggedValue xmi:id="_5R5YsR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5R5Ysh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5R5Ysx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5R5YtB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5R5YtR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -1949,7 +1914,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5SGNAB93EeeUnpceoj6BNQ" name="coupon" id="_5SFl8B93EeeUnpceoj6BNQ" label="coupon" tableType="TABLE">
       <taggedValue xmi:id="_5SGNAR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5SGNAh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5SGNAx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5SGNBB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5SGNBR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
@@ -2048,7 +2012,6 @@
     </ownedElement>
     <ownedElement xsi:type="relational:TdTable" xmi:id="_5SLFgB93EeeUnpceoj6BNQ" name="consumerstamp" id="_5SKecB93EeeUnpceoj6BNQ" label="consumerstamp" tableType="TABLE">
       <taggedValue xmi:id="_5SLFgR93EeeUnpceoj6BNQ" tag="Comment" value=""/>
-      <taggedValue xmi:id="_5SLFgh93EeeUnpceoj6BNQ" tag="Comment" value=""/>
       <feature xsi:type="relational:TdColumn" xmi:id="_5SLFgx93EeeUnpceoj6BNQ" name="id" label="id" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
         <taggedValue xmi:id="_5SLFhB93EeeUnpceoj6BNQ" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_5SLFhR93EeeUnpceoj6BNQ" language="COLUMN_DEF"/>
